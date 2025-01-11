@@ -8,5 +8,8 @@ int main(void)
     printf("大家好。\n");
     printf("my favourite number is %d because it is first.\n",num);
 
+        printf("大家好。\n");
+
+
     return 0;
 }
