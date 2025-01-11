@@ -9,7 +9,7 @@ int main(void) {
 
     long double dip = 5.32e-5L;
 
-    printf("%Lf can be written %Le\n",abet,abet);
+    printf("%f12 can be written %Le\n",abet,abet);
 
 
 

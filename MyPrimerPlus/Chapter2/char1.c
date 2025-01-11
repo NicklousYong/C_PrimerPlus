@@ -4,7 +4,8 @@
 int main(void) {
 
     char ch = 7;
-    printf("ch = %d\n",sizeof(char));
+
+    printf("ch = %lu\n",sizeof(char));
 
     printf("ch = %c\n",ch);
 
